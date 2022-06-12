@@ -16,7 +16,7 @@ off='\x1b[m'
 clear
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/WaanStore/projectmain/ssh"
+akbarvpn="raw.githubusercontent.com/WaanStore/project/main/ssh"
 
 # Link Hosting Kalian Untuk Xray
 akbarvpnn="raw.githubusercontent.com/WaanStore/project/main/xray"
