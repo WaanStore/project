@@ -250,7 +250,7 @@ echo "1.2" > /home/ver
 echo " "
 echo "Installation has been completed!!"
 echo " "
-echo "╍╍╍╍╍╍╍╍╍╍╍╍AutoScript By WaanStores╍╍╍╍╍╍╍╍╍╍╍╍" | tee -a log-install.txt
+echo "╍╍╍╍╍╍╍╍╍╍╍╍AutoScript By Waan Project╍╍╍╍╍╍╍╍╍╍╍╍" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "××××××××××××××××××××××××××××××××××××××××××××××××××" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
@@ -298,12 +298,12 @@ echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "   - Dev/Main                : Horas Marolop Amsal Siregar"  | tee -a log-install.txt
-echo "   - Recode                  : WaanStores" | tee -a log-install.txt
+echo "   - Recode                  : Waan Project" | tee -a log-install.txt
 echo "   - Telegram                : https://t.me/Waan_ID"  | tee -a log-install.txt
 echo "   - Instagram               : ~"  | tee -a log-install.txt
 echo "   - Whatsapp                : +6282323704490"  | tee -a log-install.txt
 echo "   - Facebook                : Waan Broo" | tee -a log-install.txt
-echo "╍╍╍╍╍╍╍╍╍╍╍╍AutoScript By WaanStores╍╍╍╍╍╍╍╍╍╍╍╍" | tee -a log-install.txt
+echo "╍╍╍╍╍╍╍╍╍╍╍╍AutoScript By Waan Project╍╍╍╍╍╍╍╍╍╍╍╍" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
