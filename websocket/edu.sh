@@ -14,7 +14,7 @@ off='\x1b[m'
 # Getting
 
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/WaanStore/project/websocket"
+akbarvpn="raw.githubusercontent.com/WaanStore/project/main/websocket"
 
 # Getting Proxy Template
 wget -q -O /usr/local/bin/ws-nontls https://${akbarvpn}/websocket.py
