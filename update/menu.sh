@@ -27,7 +27,7 @@ up=$(uptime|awk '{ $1=$2=$(NF-6)=$(NF-5)=$(NF-4)=$(NF-3)=$(NF-2)=$(NF-1)=$NF="";
 tram=$( free -m | awk 'NR==2 {print $2}' )
 echo -e ""
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "\E[41;1;39m                     ⇱ WAAN PROJECT ⇲                        \E[0m"
+echo -e "\E[41;1;39m                   ⇱ REMOD BY WAAN PROJECT ⇲                    \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e " 💠$bd DOMAIN             ${color1} •${color3}$bd $DOMAIN"
 echo -e " 💠$bd IP VPS             ${color1} •${color3}$bd $MYIP"
